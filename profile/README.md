@@ -23,7 +23,7 @@ Connect with Amit Shekhar
 
 Co-Founder @ Outcome School • Experienced in creating robust and scalable backend systems. I love working on performance optimization and security. I am passionate about knowledge sharing, mentoring developers, and contributing to technical blogs. Here to make tech education outcome-focused.
 
-Connect with Pallavi:
+Connect with Pallavi
 
 - [GitHub](https://github.com/pallavi-shekhar)
 - [Twitter](https://twitter.com/pallavishekhar_)
