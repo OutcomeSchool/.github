@@ -12,7 +12,8 @@ Join **Outcome School** and get high paying tech job: [Outcome School](https://o
 
 Co-Founder @ Outcome School • IIT 2010-14 • I have taught and mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
 
-Connect with **Amit Shekhar**
+### Follow Amit Shekhar
+
 - [GitHub](https://github.com/amitshekhariitbhu)
 - [Twitter](https://twitter.com/amitiitbhu)
 - [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
