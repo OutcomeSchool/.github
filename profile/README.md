@@ -15,14 +15,14 @@ Founder @ Outcome School • IIT 2010-14 • I have taught and mentored many dev
 ### Follow Amit Shekhar
 
 - [GitHub](https://github.com/amitshekhariitbhu)
-- [Twitter](https://x.com/amitiitbhu)
+- [X/Twitter](https://x.com/amitiitbhu)
 - [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
 - [YouTube](https://www.youtube.com/@amitshekhar)
 
 ### Follow Outcome School
 
 - [GitHub](http://github.com/OutcomeSchool)
-- [Twitter](https://x.com/outcome_school)
+- [X/Twitter](https://x.com/outcome_school)
 - [LinkedIn](https://www.linkedin.com/company/outcomeschool)
 - [YouTube](https://youtube.com/@OutcomeSchool)
 
